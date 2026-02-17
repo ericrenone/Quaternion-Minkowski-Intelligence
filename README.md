@@ -702,11 +702,6 @@ Hermann Minkowski (1864-1909) unified space and time to provide the geometric fo
 
 ---
 
-## License
-
-MIT License
-
----
 
 ## References
 
